@@ -2,3 +2,4 @@
 app.ini (꼭찍어서)
 /app.ini (루트 기준으로 app.ini를 빼겠다)
 file/app.ini (파일폴더 안에있는 app.ini를 빼겠다)
+*.text
